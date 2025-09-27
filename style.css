@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    padding: 40px;
+    font-family: "Poppins", sans-serif;
+    
+
+}
+.container__title{
+    background-color: plum;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 85%;
+    margin-left: 50px;
+   
+  
+   
+    
+}
+.plans{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    padding: 20px;
+    margin: 5px;
+    gap: 10px;
+    align-items: center;
+    
+}
+.plan__one{
+    background-color: black;
+    color: antiquewhite;
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.plan__one__li{
+    list-style-type: none;
+    border: solid 2px wheat;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    text-align: left;
+}
+.plan__two{
+    background-color: black;
+    color: antiquewhite;
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.plan__two__li{
+    list-style-type: none;
+    border: solid 2px wheat;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    text-align: left;
+}
+.plan__three{
+    background-color: black;
+    color: antiquewhite;
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.plan__three__li{
+    list-style-type: none;
+    border: solid 2px wheat;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    text-align: left;
+}
